@@ -205,4 +205,4 @@ function newGame() {
 function clearAllIntervals(){
     clearInterval( interval );
     clearInterval( intervalRender );
-}
+}}
